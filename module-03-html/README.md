@@ -11,7 +11,7 @@
 ```
 
 ## Example
-- saya sudah melakukan deployment aplikasi html ke **netlify**, dapat diakses disini: [here](https://dazzling-gumdrop-2ee0b1.netlify.app/)
+- saya sudah melakukan deployment aplikasi html ke **netlify**, dapat diakses disini: [here](https://dazzling-gumdrop-2ee0b1.netlify.app/){:target="_blank"}
 - contoh tag html yg digunakan pada aplikasi html tersebut adalah sbg berikut
 
 ```html
