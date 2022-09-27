@@ -9,3 +9,13 @@
 ```html
 <h1>Hello, World</h1>
 ```
+
+## Example
+- saya sudah melakukan deployment aplikasi html ke **netlify**, dapat diakses disini: [here](https://dazzling-gumdrop-2ee0b1.netlify.app/)
+- contoh tag html yg digunakan pada aplikasi html tersebut adalah sbg berikut
+
+```html
+  <h1>Hello, world!</h1>
+
+  <a href="./about-us.html">about us</a>
+```
